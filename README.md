@@ -39,6 +39,7 @@ Feel free to reach out with suggestions, questions, or collaboration opportuniti
 - **GitHub**: [https://github.com/Akash-Kadali]
 - **LeetCode**: [LeetCode Profile](https://leetcode.com/u/srikadali/)
 - **Email**: [kadali18@umd.edu]
+- **Phone Number**: [+1 240-726-9356]
 
 ---
 
